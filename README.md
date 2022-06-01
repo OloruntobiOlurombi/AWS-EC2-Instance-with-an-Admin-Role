@@ -94,5 +94,5 @@
 - > In the Filter policies textbox, search for the "admin" policy. Select the AdministratorAccess policy to apply to the new role.
 
 ![image](https://user-images.githubusercontent.com/40290711/171470123-78f1aee2-792d-4f22-9992-7312e7332f50.png)
-                                 > Attach the admin policy to the new role
+> Attach the admin policy to the new role
 
