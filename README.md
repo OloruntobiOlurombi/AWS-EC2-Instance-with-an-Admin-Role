@@ -38,7 +38,7 @@
 
 > Use the Launch Instance wizard to launch an instance with the following configuration, and leave the remaining values as the defaults:
 
-          > Stage	                           Configuration	                    Value
+           Stage	                           Configuration	                    Value
          >   1.	                          Amazon Machine Image (AMI)	    Amazon Linux 2 AMI (HVM), SSD Volume Type Note: You have chosen a Free Tier Eligible AMI
            > 2.	                            Instance Type	                    t2.micro
           >  3.	Configure                   Instance Details	
