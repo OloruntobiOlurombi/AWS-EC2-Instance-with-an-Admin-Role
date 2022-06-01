@@ -96,3 +96,10 @@
 ![image](https://user-images.githubusercontent.com/40290711/171470123-78f1aee2-792d-4f22-9992-7312e7332f50.png)
 > Attach the admin policy to the new role
 
+> Provide a name to the new role, such as VocareumSecureServerRole, or choose any other name of your choice.
+
+![image](https://user-images.githubusercontent.com/40290711/171471094-6592a7b9-4eac-4f36-a6a2-373c9d25a9e5.png)
+- >  Provide a role name
+
+![image](https://user-images.githubusercontent.com/40290711/171471586-764f5563-b6cb-4d94-b847-7ca3fd70fe61.png)
+- > A successfully created role
