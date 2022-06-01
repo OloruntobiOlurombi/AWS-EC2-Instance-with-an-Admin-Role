@@ -8,4 +8,17 @@
 
 > Let's do this exercise to make your learning fun.
 
+### Prerequisites:
+> AWS Account
+
+### Tasks
+> Launch a secure EC2 instance
+
+> Create IAM role with admin privileges
+
+> Attach the IAM role to the EC2 instance created earlier
+
+> Connect to your EC2 instance via SSH
+
+> Use CLI tool in the EC2 instance
 
