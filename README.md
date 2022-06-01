@@ -70,4 +70,17 @@
 
 - > Verify that you should see the newly created EC2 instance in the Instances services. Check the instance state, it should say Running.
 
+
+
 ![image](https://user-images.githubusercontent.com/40290711/171467310-75135ce8-f825-4df0-a0cd-4adbde916451.png)
+
+
+#### Step 3. Create an IAM Role
+> Navigate to the IAM dashboard, and select the Roles services in the left-hand navigation pane.
+
+![image](https://user-images.githubusercontent.com/40290711/171467697-a0ddfd63-06de-4bce-92c3-a0f7717c4abe.png)
+
+![image](https://user-images.githubusercontent.com/40290711/171467871-6ea792e8-dad6-4942-b277-b256abe4fb8e.png)
+
+
+
