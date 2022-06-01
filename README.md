@@ -103,3 +103,13 @@
 
 ![image](https://user-images.githubusercontent.com/40290711/171471586-764f5563-b6cb-4d94-b847-7ca3fd70fe61.png)
 - > A successfully created role
+
+#### Step 4. Attach the Role to the EC2 Instance
+
+> Go back to the EC2 dashboard, and view the list of the running instances.
+
+> Select the checkbox against the recently launched (earlier in this exercise) EC2 instance, and click the Actions button on the top of the list. It will open up drop-down options, select the Security → Modify IAM role option. See the snapshot below.
+
+![image](https://user-images.githubusercontent.com/40290711/171473008-64ec8c34-bfd5-4d45-abee-2d074d2ce66c.png)
+
+
