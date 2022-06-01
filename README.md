@@ -127,3 +127,8 @@
 
 > After connecting to your instance, verify the existing installation of AWS CLI, and run any AWS command, such as ***aws iam list-users***.
 ![image](https://user-images.githubusercontent.com/40290711/171479254-7f55f63d-b0ee-43e9-bee5-b45fbbe52a2b.png)
+
+#### Please proceed to delete all resource because of the cost implications.
+
+## What a smooth ride.
+## The End
