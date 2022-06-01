@@ -40,16 +40,16 @@
 
           > Stage	                           Configuration	                    Value
          >   1.	                          Amazon Machine Image (AMI)	    Amazon Linux 2 AMI (HVM), SSD Volume Type Note: You have chosen a Free Tier Eligible AMI
-           > 2.	                             Instance Type	                    t2.micro
+           > 2.	                            Instance Type	                    t2.micro
           >  3.	Configure                   Instance Details	
-                                       >  a. Number of Instances	                 1
-                                       >  b. Network	                          Default
+                                          >  a. Number of Instances	                      1
+                                          >  b. Network	                              Default
                                                                          Select the VPC that was created in the previous step
-                                       > c. Subnet	Default
-            > 4.	                             Storage	                        Default
-            > 5.	                               Tags	                          Optional
+                                         > c.   Subnet	                             Default
+            > 4.	                            Storage	                             Default
+            > 5.	                              Tags	                             Optional
            >  6.	                             Security Group	                    New.
-                                                                         Limit access to your IP address only
+                                                                              Limit access to your IP address only
 
 ![image](https://user-images.githubusercontent.com/40290711/171458262-da11863e-f456-4782-8cbc-3a0beceb7769.png)
 
