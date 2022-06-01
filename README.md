@@ -82,7 +82,14 @@
 
 ![image](https://user-images.githubusercontent.com/40290711/171467871-6ea792e8-dad6-4942-b277-b256abe4fb8e.png)
 
+- > Click on the Create role button, and provide the configuration details, as follows.
+
 ![image](https://user-images.githubusercontent.com/40290711/171468181-031fd25a-c042-456a-b8ae-63c3636a06e9.png)
+
+- > Select AWS service as the type of trusted entity, and choose EC2 service to assume the new role. It will allow the EC2 instance, to whom we will attach this role later, to be able to call any AWS service on your behalf.
+
+![image](https://user-images.githubusercontent.com/40290711/171469161-65ab2fc4-ec23-4f43-8c22-82256b8e9ae5.png)
+> Select the AWS service as the trusted entity, and choose the EC2 service to assume the new role
 
 
 
