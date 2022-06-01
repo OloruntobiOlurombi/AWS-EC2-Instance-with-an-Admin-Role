@@ -22,3 +22,35 @@
 
 > Use CLI tool in the EC2 instance
 
+### Steps
+
+#### Step 1:Create a default VPC
+
+> It is possible that you already have a default VPC created in your account. If not, go to the VPC dashboard and create a default VPC.
+
+![image](https://user-images.githubusercontent.com/40290711/171456820-4e8c6055-b720-4c14-aa21-862f653ae139.png)
+
+#### Step 2. Launch an EC2 instance
+
+> Navigate to the EC2 dashboard, and select the Instances services in the left-hand navigation pane.
+
+![image](https://user-images.githubusercontent.com/40290711/171457891-95190ffa-733d-406c-b6d6-64cf4b064b17.png)
+
+> Use the Launch Instance wizard to launch an instance with the following configuration, and leave the remaining values as the defaults:
+
+          > Stage	                           Configuration	                    Value
+         >   1.	                          Amazon Machine Image (AMI)	    Amazon Linux 2 AMI (HVM), SSD Volume Type Note: You have chosen a Free Tier Eligible AMI
+           > 2.	                             Instance Type	                    t2.micro
+          >  3.	Configure                   Instance Details	
+                                       >  a. Number of Instances	                 1
+                                       >  b. Network	                          Default
+                                                                         Select the VPC that was created in the previous step
+                                       > c. Subnet	Default
+            > 4.	                             Storage	                        Default
+            > 5.	                               Tags	                          Optional
+           >  6.	                             Security Group	                    New.
+                                                                         Limit access to your IP address only
+
+![image](https://user-images.githubusercontent.com/40290711/171458262-da11863e-f456-4782-8cbc-3a0beceb7769.png)
+
+
