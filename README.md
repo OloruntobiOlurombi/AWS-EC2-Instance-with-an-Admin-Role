@@ -61,6 +61,13 @@
 
 ![image](https://user-images.githubusercontent.com/40290711/171462749-aa2c9715-f37d-4f14-ab9e-64b5f52bd04c.png)
 
+- > Download a new SSH Key if you don't have one already.
+
+- > Important: This key-pair will allow you to log into your instance, using SSH, from your local machine. Save the key-pair carefully, because the same private key cannot be re-generated.
+
 ![image](https://user-images.githubusercontent.com/40290711/171463945-41af0009-c331-4a80-b3a5-670826fe4b14.png)
 - > Allow only yourself to access the EC2 instance
 
+- > Verify that you should see the newly created EC2 instance in the Instances services. Check the instance state, it should say Running.
+
+![image](https://user-images.githubusercontent.com/40290711/171467310-75135ce8-f825-4df0-a0cd-4adbde916451.png)
