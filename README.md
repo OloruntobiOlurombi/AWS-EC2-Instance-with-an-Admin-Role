@@ -113,4 +113,17 @@
 ![image](https://user-images.githubusercontent.com/40290711/171473008-64ec8c34-bfd5-4d45-abee-2d074d2ce66c.png)
 
 ![image](https://user-images.githubusercontent.com/40290711/171473729-70ea4789-a55c-46ed-8df4-f24245951e27.png)
+- > Apply the new role to your EC2 instance
 
+#### Step 5. Connect to your EC2 instance
+
+> Connect to your EC2 instance using SSH. Follow the instructions, as shown in the snapshot below.
+
+![image](https://user-images.githubusercontent.com/40290711/171476190-aebdafdf-6ad5-498f-9e35-bcc109850108.png)
+> Connect to your EC2 instance using an SSH client
+
+![image](https://user-images.githubusercontent.com/40290711/171478655-76cd86b2-306f-47dd-9df7-82e5dd94f92e.png)
+
+
+> After connecting to your instance, verify the existing installation of AWS CLI, and run any AWS command, such as ***aws iam list-users***.
+![image](https://user-images.githubusercontent.com/40290711/171479254-7f55f63d-b0ee-43e9-bee5-b45fbbe52a2b.png)
